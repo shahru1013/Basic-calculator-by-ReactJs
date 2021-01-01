@@ -1,0 +1,26 @@
+.calBodyRow{
+    display: flex;
+    justify-content: center;
+}
+.body{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.body input{
+ width: 210px;
+ height: 45px;
+ border-style: double;
+ border-width: 1px;
+ border-color: khaki;
+ font-size: 1.2rem;
+}
+.upperPara{
+    width: 205px;
+    border-style: none;
+    font-size: 1.2rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+   
+}

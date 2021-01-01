@@ -1,0 +1,40 @@
+.header{
+   
+}
+.left{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+.left img{
+    height: 60px;
+    width: 60px;
+    border-color: darkcyan;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50%;
+  
+}
+.left button{
+    height: 30px;
+    width: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: transparent;
+    border-style: none;
+    box-shadow: 1px 1px 5px rosybrown;
+    margin-left: 10px;
+}
+.left button:hover{
+   cursor: pointer;
+   border-style: solid;
+   border-width: 2px;
+   border-color: thistle;
+   border-top-style: hidden;
+   border-right-style: hidden;
+   border-left-style: hidden;
+   transition: border-width 0.3s;
+   color: wheat;
+   background-color: burlywood;
+   
+}

@@ -1,0 +1,29 @@
+.ha{
+    background-color:floralwhite;
+    width: 70px;
+    padding: 10px;
+    margin-left: 2px;
+    text-align: center;
+    margin-top: 2px;
+    color: maroon;
+    font-size: 1.2rem;
+}
+.btn{
+    background-color: honeydew;
+    width: 70px;
+    padding: 10px;
+    margin-left: 2px;
+    text-align: center;
+    margin-top: 2px;
+    color: midnightblue;
+    font-size: 1.2rem;
+}
+
+.btn:hover{
+   cursor: pointer;
+   box-shadow: 0px 0px 5px #000000;
+}
+.ha:hover{
+    cursor: pointer;
+    box-shadow: 0px 0px 5px #000000;
+ }
